@@ -1,4 +1,4 @@
-# Final Project - Data Scientist : Kimia Farma x Rakamin Academy
+# Final Project - Data Scientist : Home Credit Indonesia x Rakamin Academy
 This project focuses on predicting credit default risks based on historical data. The analysis includes data cleaning, exploratory data analysis (EDA), and predictive modeling using machine learning techniques.
 
 
